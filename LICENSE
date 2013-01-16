@@ -1,0 +1,24 @@
+Android Rest API
+
+Retrieves data from a restful web service. Data serialization and 
+de-serialization is handled by the program using this API. 
+
+TODO: Add more documentation! ;)
+
+== Requirements ==
+
+Android SDK
+
+== Contributing ==
+
+Contributions to the source are always welcome as well as suggestions
+for development direction. See CONTRIBUTING for details.
+
+== Licenses ==
+
+This programs is dual licensed under the BSD or GPL v2 or later. See the
+COPYING file and LICENSE.BSD or LICENSE.GPL.
+
+Git repository: http://github.com/nedwidek/Android-Rest-API
+
+Copyright 2012, Hatteras Software
